@@ -6,5 +6,5 @@
 ```python
 k = keylogger("email","password")
 ```
-#### + python keylogger.py ( or python3 keylogger.py )
+#### ..* python keylogger.py ( or python3 keylogger.py )
 #### + 
