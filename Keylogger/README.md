@@ -15,3 +15,8 @@ pip install pynput
 ```sh
 pip3 install pynput
 ```
+### NOTE
+#### if you are using gmail, change the SMTP server to smtp.gmail.com
+```python
+serveur = SMTP("smtp.gmail.com",587)
+```
