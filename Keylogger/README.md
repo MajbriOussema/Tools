@@ -11,7 +11,7 @@ k = keylogger("email","password")
 ```sh
 pip install pynput
 ```
-#####or
+##### or
 ```sh
 pip3 install pynput
 ```
