@@ -9,11 +9,11 @@ k = keylogger("email","password")
 #### 2. python keylogger.py ( or python3 keylogger.py )
 #### Requirements :  pynput library
 ```sh
-pip install pynput
+$pip install pynput
 ```
 ##### or
 ```sh
-pip3 install pynput
+$pip3 install pynput
 ```
 ### NOTE
 #### if you are using gmail, change the SMTP server to smtp.gmail.com
